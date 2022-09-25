@@ -1,0 +1,33 @@
+h1{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+.Title2{
+    background-color: whitesmoke;
+    width: 300px;
+    height: 300px;
+    border-radius: 100px; /* Радиус скругления */
+    border: 3px solid green; /* Параметры рамки */
+    box-shadow: 0 0 17px #666; /* Параметры тени */
+    margin: auto;
+}
+#Title3{
+    background-color: #E1E8ED;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+.round{
+    border-radius: 100px; /* Радиус скругления */
+    border: 3px solid green; /* Параметры рамки */
+    box-shadow: 0 0 17px #666; /* Параметры тени */
+    margin: auto;
+}
+body {
+    background-image: url(white.jpg); /* Путь к фоновому изображению */
+    background-color: #c7b39b; /* Цвет фона */
+    width: auto;
+
+
