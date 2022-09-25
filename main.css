@@ -28,8 +28,8 @@ h1{
 body {
     background-image: url(white.jpg); /* Путь к фоновому изображению */
     background-color: #c7b39b; /* Цвет фона */
-    width: auto;
-    display: grid;
+    width: 80%;
+    max-width: 720px;
 }
 .container{
     width: 80%;
