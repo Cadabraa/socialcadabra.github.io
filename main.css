@@ -31,3 +31,7 @@ body {
     width: auto;
     display: grid;
 }
+.container{
+    width: 80%;
+    max-width: 720px;
+}
